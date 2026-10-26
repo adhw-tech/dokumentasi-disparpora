@@ -12,7 +12,7 @@ jobs:
 
       - name: Download project ZIP
         run: |
-          curl -L -o dokumentasi.zip "https://muse.ai/files/1451609868034060/1659581415706670/122c2uts5i92skvlv5i4tlhe/dokumentasi-app.zip" 
+          curl -L -o dokumentasi.zip "https://muse.ai/files/1451609868034060/1387665700113646/q2gnuhsmrdyg4jyxvizi3bo0/dokumentasi-app.zip" 
           unzip -q dokumentasi.zip
           ls dokumentasi-app-proyek
 
